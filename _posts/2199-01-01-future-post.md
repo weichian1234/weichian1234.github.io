@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
 date: 2199-01-01
-permalink: https://hackmd.io/@KDeDlwVFSKaYglazdqFy2Q/r15NtIXxJg
+permalink: d
 tags:
   - cool posts
   - category1
