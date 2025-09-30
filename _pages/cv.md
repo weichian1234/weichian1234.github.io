@@ -32,7 +32,14 @@ Brief professional summary goes here. Highlight your expertise in software engin
   * THE Ranking 2025: 1001–1200 | QS World Ranking 2026: 791–800  
   * Graduated: 2019  
   * GPA: 3.8/4.0  
-  * Key Courses: Networking, Embedded Software Systems, Cyber Security  
+  * Key Courses: Networking, Embedded Software Systems, Cyber Security
+ 
+* **M.S. in Computer Science (EECS)**, [NYCU](https://www.nycu.edu.tw/nycu/ch/index)  
+  * Graduated: Sep 2022 - Jun 2024  
+  * GPA: 4.23/4.3  
+  * Key Courses: Embedded Operating System, Embedded Real-time Operating System, Operating System, Memory and Storage System
+  * Thesis Topic:  A Framework of Reproducible MITRE Lifecycle Extraction and Mapping with Enhanced-LLM
+    * This thesis develops a system called DEAP-LLM to automate the extraction and mapping of MITRE attack lifecycles from CTF write-ups. It addresses challenges such as dataset imbalance and the difficulty of extracting detailed techniques. The framework trains a language model to map attack approaches to lifecycle stages. Despite limitations due to the language model's capabilities, the system effectively enriches the dataset and improves the process of lifecycle extraction and mapping when data is insufficient.
 
 ---
 
