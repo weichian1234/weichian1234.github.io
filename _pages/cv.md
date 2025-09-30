@@ -28,7 +28,7 @@ Brief professional summary goes here.
 
 ## Education
 
-* B.S. in IT (Communications and Networking), [UTAR,THE Ranking 2025:1001-1200, QS world 2026:791-800]([https://university-website.com](https://www.utar.edu.my/)), Graduated on 2019
+* B.S. in IT (Communications and Networking), [UTAR,THE Ranking 2025:1001-1200, QS world 2026:791-800]([https://www.utar.edu.my/]), Graduated on 2019
 
   * GPA: 3.8/4.0
   * Courses: Networking, Embedded Software System, Cyber Security
