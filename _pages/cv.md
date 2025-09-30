@@ -84,32 +84,49 @@ In his free time, he enjoys reading materials outside his field, which has broad
 
 ## Certifications
 
-* **AWS Certified Solutions Architect – Associate** — Amazon Web Services  
-  *Issued: Mar 2025*  
-  * Description: Validates expertise in designing and deploying scalable cloud applications.  
-  * [View Certificate](https://www.your-certificate-url.com)
+* **Introduction to Linux** — Linkedln  
+  *Issued: Sep 2025*  
+  * [View Certificate](https://www.linkedin.com/learning/certificates/0f0dd1ab779839c3cbbf5057932c505dcd0f0417175e78ccd5b5fe04be45bdd3?u=92036186)
 
-## Publications
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+* **Kubernetes: Your First Project** — Linkedln  
+  *Issued: Sep 2025*  
+  * [View Certificate](https://www.linkedin.com/learning/certificates/943391f07de9e34909449fb01afdbf1eb33d5f37837f11ae7a251c5ca9985056)
 
-## Talks
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
+* **Learning Kubernetes** — Linkedln  
+  *Issued: Sep 2025*  
+  * [View Certificate](https://www.linkedin.com/learning/certificates/75fffb89dad62998956f3d9c7e0321855262f1effd94306a4b214a31bb71e63b)
 
-## Teaching
-<ul>
-{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+* **AI Agent 與 MCP 應用工作坊** — 工研院產業學院  
+  *Issued: Aug 2025*
+  * 證書編號: 第 2325060075002 號
+  * 培訓時數： 12.5小時  
 
-## Service and Leadership
+* **Linux Security and Hardening Essential Training** — Linkedln  
+  *Issued: Jul 2025*  
+  * [View Certificate](https://www.linkedin.com/learning/certificates/4dc89f9f9f3ddeb19d0a309bf63cc0224f7640640b952cc20e9afb23b347f2fd)
+ 
+* **Azure Administration Essential Training** — Linkedln  
+  *Issued: May 2025*  
+  * [View Certificate](https://www.linkedin.com/learning/certificates/ae570213634e198d6ade8f9fce3cb824dedc79277966666f98b5898c7d9567d4)
 
-* Currently signed in to 43 different Slack teams
+* **TOEIC® Listening and Reading Test ** — TOEFL ONLINE  
+  *Issued: April 2024*
+  * Score: 740
+
+* **Machine Learning A-Z™: Python & R in Data Science [2023]** — Udemy  
+  *Issued: Jan 2023*  
+  * [View Certificate](https://www.udemy.com/certificate/UC-f373900b-3ce0-4579-ab23-cb52e74752c8/)
+
+* **ACA Cloud Computing Certification** — Alibaba Cloud 
+  *Issued: Oct 2021*  
+  * [View Criteria](https://edu.alibabacloud.com/certification/aca_cloudcomputing)
+
+* **Undergraduate Research Scheme** — Universiti Tunku Abdul Rahman 
+  *Issued: Jun 2020*  
+  * Description: URS(Undergraduate Research Scheme) is a scheme for UTAR undergraduates to train in various aspects of research project implementation. I was given to opportunity to be attached to the "Deep Learning in Botnet Detection using SDN Spatial Correlations" project. I was required to achieve a minimum of 140 hours of research project attachment. Upon completing a minimum of 140 hours, I was required to attend 8 hours of research workshop training. Throughout this project, I was allowed to explore Software Defined Networking.
+  
+
+  
+
+
+
