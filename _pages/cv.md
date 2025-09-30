@@ -11,7 +11,7 @@ redirect_from:
 
 # Wei Qian
 
-**Software Engineer**
+Software Engineer
 📧 [your_email@example.com](mailto:your_email@example.com) | 📱 +
 🌐 [https://your-portfolio.com](https://your-portfolio.com)
 📍 Kuala Lumpur, Malaysia
@@ -28,53 +28,53 @@ Brief professional summary goes here.
 
 ## Education
 
-* B.S. in Computer Science, [University Name](https://university-website.com), 2019
+ B.S. in Computer Science, [University Name](https://university-website.com), 2019
 
-  * GPA: 3.8/4.0
-  * Courses: Data Structures and Algorithms, Artificial Intelligence
+   GPA: 3.8/4.0
+   Courses: Data Structures and Algorithms, Artificial Intelligence
 
 ---
 
 ## Work Experience
 
-* Jan 2022 – Jun 2024: **Job Title**
+ Jan 2022 – Jun 2024: **Job Title**
 
-  * [Company Name](https://company-website.com)
-  * Key responsibilities and achievements:
+   [Company Name](https://company-website.com)
+   Key responsibilities and achievements:
 
-    * Improved system performance by 30%
-    * Led a team of 5 engineers
+     Improved system performance by 30%
+     Led a team of 5 engineers
 
 ---
 
 ## Projects
 
-* **Smart Factory AI Platform**
+ Smart Factory AI Platform
 
-  * [GitHub Link](https://github.com/your_project)
-  * Description: Developed a smart interactive factory platform integrating 5G, AIoT, and edge computing.
-  * Highlights:
+   [GitHub Link](https://github.com/your_project)
+   Description: Developed a smart interactive factory platform integrating 5G, AIoT, and edge computing.
+   Highlights:
 
-    * Built a multithreaded Python data pipeline
-    * Integrated edge devices with cloud servers
+     Built a multithreaded Python data pipeline
+     Integrated edge devices with cloud servers
 
 ---
 
 ## Skills
 
-* Programming Languages (Advanced)
+ Programming Languages (Advanced)
 
-  * Python, C++, JavaScript
-* Cloud & DevOps (Intermediate)
+   Python, C++, JavaScript
+ Cloud & DevOps (Intermediate)
 
-  * Docker, Kubernetes, AWS
+   Docker, Kubernetes, AWS
 
----
+
 
 ## Languages
 
-* English – Fluent
-* Mandarin – Fluent
+ English – Fluent
+ Mandarin – Fluent
 
 Publications
 ======
