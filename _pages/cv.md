@@ -22,7 +22,11 @@ redirect_from:
 
 ## Summary
 
-Brief professional summary goes here. Highlight your expertise in software engineering, smart factories, AIoT, and cloud-edge integration.
+The journey in Taiwan began when he met his current advisor through a sister school partnership between Tunku Abdul Rahman University in Malaysia and Jiaotong University. Before joining, he knew little about the research direction and wasn’t sure if it aligned with his interests or background. Starting from scratch felt like the perfect fit, as he transitioned from a focus on network technology to an entirely new research field.
+
+Choosing Jiaotong University for his master's was a spontaneous decision, with little understanding of its academic rigor. Over time, he found the environment more challenging and engaging than expected, pushing him to explore new areas like web scraping, linux, operating systems, IoT, and large language models.
+
+In his free time, he enjoys reading materials outside his field, which has broadened his knowledge and perspective. The journey from zero to one has been challenging yet full of possibilities.
 
 ---
 
@@ -76,6 +80,14 @@ Brief professional summary goes here. Highlight your expertise in software engin
 * Mandarin – Fluent  
 
 ---
+
+
+## Certifications
+
+* **AWS Certified Solutions Architect – Associate** — Amazon Web Services  
+  *Issued: Mar 2025*  
+  * Description: Validates expertise in designing and deploying scalable cloud applications.  
+  * [View Certificate](https://www.your-certificate-url.com)
 
 ## Publications
 <ul>
