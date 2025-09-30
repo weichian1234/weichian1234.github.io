@@ -1,152 +1,182 @@
 {
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
-  },
-  "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+"basics": {
+"name": "Kew Wei Chian",
+"email": "[none@example.org](mailto:none@example.org)",
+"phone": "",
+"website": "",
+"summary": "R&D Engineer at Industrial Technology Research Institute (ITRI), focusing on AIoT systems, embedded systems, and cloud solutions. Experienced in large language models, computer vision, cybersecurity, and edge computing.",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "Hsinchu",
+"countryCode": "TW",
+"region": "Taiwan"
+},
+"profiles": [
+{
+"network": "LinkedIn",
+"username": "kewweichian",
+"url": ""
+},
+{
+"network": "GitHub",
+"username": "",
+"url": ""
+}
+]
+},
+"work": [
+{
+"name": "Industrial Technology Research Institute (ITRI)",
+"position": "R&D Engineer, AIoT Embedded Systems Application Development (R300)",
+"location": "Hsinchu, Taiwan",
+"startDate": "2024-09",
+"summary": "Building AIoT systems using large language models and computer vision; planning and deploying scalable solutions on Microsoft Azure.",
+"highlights": [
+"Developed AIoT solutions combining LLMs and computer vision",
+"Planned and deployed scalable cloud systems on Microsoft Azure"
+]
+},
+{
+"name": "Industrial Technology Research Institute (ITRI)",
+"position": "Intern, AIoT Embedded Systems Application Development (R300)",
+"location": "Hsinchu, Taiwan",
+"startDate": "2024-04",
+"endDate": "2024-07",
+"summary": "Focused on AI model conversion and deployment on embedded platforms.",
+"highlights": [
+"Installed Ubuntu and Yocto on MTK Genio boards",
+"Deployed ARMNN on Genio 350 and Genio 510, demonstrated object detection",
+"Converted trained models for edge AI processors (Neuropilot, HailoRT)",
+"Contributed to cloud service framework for model training, testing, deployment"
+]
+},
+{
+"name": "Industrial Technology Research Institute (ITRI)",
+"position": "Intern, Private Cloud Computing Safety and Security",
+"location": "Taiwan",
+"startDate": "2023-07",
+"endDate": "2023-12",
+"summary": "Worked on NLP for cybersecurity and vulnerability analysis.",
+"highlights": [
+"Applied LLMs to analyze cybersecurity data and trends",
+"Improved domain threat checking services",
+"Authored PoC article on web scraping vulnerabilities and countermeasures"
+]
+},
+{
+"name": "Huawei",
+"position": "Intern, Network Technology",
+"location": "Malaysia",
+"startDate": "2021-10",
+"endDate": "2021-12",
+"summary": "Assisted in software development for network technology solutions.",
+"highlights": [
+"Optimized code efficiency",
+"Preprocessed data with pandas",
+"Built PyQt5 GUI with error handling",
+"Implemented multithreading for backend/UI parallelism"
+]
+}
+],
+"education": [
+{
+"institution": "National Chiao Tung University (NCTU)",
+"area": "Electrical Engineering and Computer Science",
+"studyType": "Master’s Degree",
+"startDate": "2022-09",
+"endDate": "2024-06",
+"gpa": "4.23/5.0",
+"courses": [
+"Embedded Operating System",
+"Embedded Real-time Operating System",
+"Operating System",
+"Memory and Storage System"
+],
+"thesis": "A Framework of Reproducible MITRE Lifecycle Extraction and Mapping with Enhanced-LLM"
+},
+{
+"institution": "Universiti Tunku Abdul Rahman (UTAR)",
+"area": "Computer Systems Networking",
+"studyType": "Bachelor’s Degree",
+"startDate": "2019",
+"endDate": "2022",
+"gpa": "3.68/4.0",
+"courses": [],
+"summary": "Honours Degree with Distinction"
+}
+],
+"skills": [
+{
+"name": "Programming",
+"keywords": ["Python", "C/C++", "PyQt5", "Multithreading"]
+},
+{
+"name": "AI & ML",
+"keywords": ["Large Language Models", "Computer Vision", "Model Conversion", "RAG Systems"]
+},
+{
+"name": "Embedded Systems",
+"keywords": ["Yocto", "Ubuntu", "MTK Genio Boards", "ARMNN", "Neuropilot", "HailoRT"]
+},
+{
+"name": "Cloud & DevOps",
+"keywords": ["Microsoft Azure", "AWS", "Private Cloud", "Kubernetes", "Linux Administration"]
+},
+{
+"name": "Cybersecurity",
+"keywords": ["NLP for Cybersecurity", "MITRE ATT&CK Mapping", "Threat Analysis", "Web Scraping Vulnerabilities"]
+}
+],
+"certifications": [
+{
+"name": "Introduction to Linux",
+"issuer": "LinkedIn",
+"date": "2025-09"
+},
+{
+"name": "Kubernetes: Your First Project",
+"issuer": "LinkedIn",
+"date": "2025-09"
+},
+{
+"name": "ACA Cloud Computing Certification",
+"issuer": "Alibaba Cloud",
+"date": "2021-10",
+"url": "[https://edu.alibabacloud.com/certification/aca_cloudcomputing](https://edu.alibabacloud.com/certification/aca_cloudcomputing)"
+}
+],
+"awards": [
+{
+"title": "Undergraduate Research Scheme",
+"date": "2020-06",
+"awarder": "Universiti Tunku Abdul Rahman (UTAR)",
+"summary": "Contributed to research project on Deep Learning in Botnet Detection using SDN Spatial Correlations. Completed 140+ hours of research and 8 hours of training."
+}
+],
+"publications": [
+{
+"name": "Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems",
+"publisher": "Self-published",
+"releaseDate": "2025-07",
+"website": "[https://lnkd.in/deefm2z9](https://lnkd.in/deefm2z9)",
+"summary": "A 406-page book introducing reusable design patterns for building intelligent systems with LLMs and autonomous agents. 100% of royalties donated to Save the Children."
+}
+],
+"languages": [
+{
+"language": "English",
+"fluency": "Professional"
+},
+{
+"language": "Mandarin",
+"fluency": "Conversational"
+}
+],
+"interests": [
+{ "name": "AI Agents" },
+{ "name": "Cybersecurity" },
+{ "name": "IoT and Edge Computing" },
+{ "name": "Operating Systems" }
+]
 }
