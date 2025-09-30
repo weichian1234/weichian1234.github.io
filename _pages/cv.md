@@ -34,7 +34,7 @@ In his free time, he enjoys reading materials outside his field, which has broad
   * THE Ranking 2025: 1001–1200 | QS World Ranking 2026: 791–800  
   * Graduated: 2019  
   * GPA: 3.8/4.0  
-  * Key Courses: Networking, Embedded Software Systems, Cyber Security
+  * Key Courses: Networking, Embedded Software Systems, Cyber Security, Database, Object Oriented Programming, Microservice Architecture, Computer Architecture, Software Design, Operating System
  
 * **M.S. in Computer Science (EECS)**, [NYCU](https://www.nycu.edu.tw/nycu/ch/index)  
   * Graduated: Sep 2022 - Jun 2024  
