@@ -109,7 +109,7 @@ In his free time, he enjoys reading materials outside his field, which has broad
   *Issued: May 2025*  
   * [View Certificate](https://www.linkedin.com/learning/certificates/ae570213634e198d6ade8f9fce3cb824dedc79277966666f98b5898c7d9567d4)
 
-* **TOEIC® Listening and Reading Test ** — TOEFL ONLINE  
+* **TOEIC® Listening and Reading Test** — TOEFL ONLINE  
   *Issued: April 2024*
   * Score: 740
 
