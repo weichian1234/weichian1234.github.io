@@ -9,37 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Wei Qian
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Software Engineer**
+📧 [your_email@example.com](mailto:your_email@example.com) | 📱 +
+🌐 [https://your-portfolio.com](https://your-portfolio.com)
+📍 Kuala Lumpur, Malaysia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[LinkedIn](https://linkedin.com/in/your_linkedin_username) | [GitHub](https://github.com/your_github_username)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+
+## Summary
+
+Brief professional summary goes here.
+
+---
+
+## Education
+
+* B.S. in Computer Science, [University Name](https://university-website.com), 2019
+
+  * GPA: 3.8/4.0
+  * Courses: Data Structures and Algorithms, Artificial Intelligence
+
+---
+
+## Work Experience
+
+* Jan 2022 – Jun 2024: **Job Title**
+
+  * [Company Name](https://company-website.com)
+  * Key responsibilities and achievements:
+
+    * Improved system performance by 30%
+    * Led a team of 5 engineers
+
+---
+
+## Projects
+
+* **Smart Factory AI Platform**
+
+  * [GitHub Link](https://github.com/your_project)
+  * Description: Developed a smart interactive factory platform integrating 5G, AIoT, and edge computing.
+  * Highlights:
+
+    * Built a multithreaded Python data pipeline
+    * Integrated edge devices with cloud servers
+
+---
+
+## Skills
+
+* Programming Languages (Advanced)
+
+  * Python, C++, JavaScript
+* Cloud & DevOps (Intermediate)
+
+  * Docker, Kubernetes, AWS
+
+---
+
+## Languages
+
+* English – Fluent
+* Mandarin – Fluent
 
 Publications
 ======
