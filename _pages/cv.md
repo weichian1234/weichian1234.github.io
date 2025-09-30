@@ -105,11 +105,11 @@ In his free time, he enjoys reading materials outside his field, which has broad
   *Issued: Jan 2023*  
   * [View Certificate](https://www.udemy.com/certificate/UC-f373900b-3ce0-4579-ab23-cb52e74752c8/)
 
-* **ACA Cloud Computing Certification** — Alibaba Cloud 
+* **ACA Cloud Computing Certification** — Alibaba Cloud
   *Issued: Oct 2021*  
   * [View Criteria](https://edu.alibabacloud.com/certification/aca_cloudcomputing)
 
-* **Undergraduate Research Scheme** — Universiti Tunku Abdul Rahman 
+* **Undergraduate Research Scheme** — Universiti Tunku Abdul Rahman
   *Issued: Jun 2020*  
   * Description: URS(Undergraduate Research Scheme) is a scheme for UTAR undergraduates to train in various aspects of research project implementation. I was given to opportunity to be attached to the "Deep Learning in Botnet Detection using SDN Spatial Correlations" project. I was required to achieve a minimum of 140 hours of research project attachment. Upon completing a minimum of 140 hours, I was required to attend 8 hours of research workshop training. Throughout this project, I was allowed to explore Software Defined Networking.
   
