@@ -12,17 +12,15 @@ redirect_from:
 # Wei-Chian Kew
 
 **Software Engineer**  
-📧 [your_email@example.com](mailto:your_email@example.com) | 📱 +  
-🌐 [https://your-portfolio.com](https://your-portfolio.com)  
+📧 [Mail](mailto:kewweichian1234@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/kewweichian)  
 📍 Hsinchu, Taiwan  
-
-[LinkedIn](https://www.linkedin.com/in/kewweichian) | [GitHub](https://github.com/your_github_username)
 
 ---
 
 ## Summary
 
-The journey in Taiwan began when he met his current advisor through a sister school partnership between Tunku Abdul Rahman University in Malaysia and Jiaotong University. Before joining, he knew little about the research direction and wasn’t sure if it aligned with his interests or background. Starting from scratch felt like the perfect fit, as he transitioned from a focus on network technology to an entirely new research field.
+The journey in Taiwan began when he met his current advisor through a sister school partnership between Tunku Abdul Rahman University in Malaysia and National Yang Ming Chiao Tung University. Before joining, he knew little about the research direction and wasn’t sure if it aligned with his interests or background. Starting from scratch felt like the perfect fit, as he transitioned from a focus on network technology to an entirely new research field.
 
 Choosing Jiaotong University for his master's was a spontaneous decision, with little understanding of its academic rigor. Over time, he found the environment more challenging and engaging than expected, pushing him to explore new areas like web scraping, linux, operating systems, IoT, and large language models.
 
@@ -57,20 +55,10 @@ In his free time, he enjoys reading materials outside his field, which has broad
 
 ---
 
-## Projects
-
-* **Smart Factory AI Platform** — [GitHub Link](https://github.com/your_project)  
-  * Description: Developed a smart interactive factory platform integrating 5G, AIoT, and edge computing.  
-  * Highlights:  
-    * Built a multithreaded Python data pipeline for processing part numbers efficiently  
-    * Integrated edge devices with cloud servers for real-time monitoring and control  
-
----
-
 ## Skills
 
-* **Programming Languages (Advanced):** Python, C++, JavaScript  
-* **Cloud & DevOps (Intermediate):** Docker, Kubernetes, AWS  
+* **Programming Languages:** Python, HTML, CSS, Javascript, SQL
+* **Cloud & DevOps:** Azure AI Service, Azure OpenAI, Azure Document Intelligent, Azure Virtual Machine, FastApi, Github, Docker, Kubernetes, Helm, Linux, Bash Scripting
 
 ---
 
