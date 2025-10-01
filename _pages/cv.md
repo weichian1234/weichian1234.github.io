@@ -47,11 +47,39 @@ In his free time, he enjoys reading materials outside his field, which has broad
 
 ## Work Experience
 
-* **Job Title** — [Company Name](https://company-website.com)  
-  *Jan 2022 – Jun 2024*  
-  * Key responsibilities and achievements:  
-    * Improved system performance by 30%  
-    * Led a team of 5 engineers  
+### Industrial Technology Research Institute (ITRI, 工業技術研究院) — Taiwan
+
+**AIoT Embedded Systems Application Development (R&D Engineer), R300 電光所**  
+*Sep 2024 – Present · Full-time · On-site*  
+- Building AIoT systems leveraging large language models and computer vision.  
+- Planning and deploying scalable cloud solutions on Microsoft Azure.  
+- Skilled in Microsoft Azure, Linux, and AIoT application development.  
+
+**AIoT Embedded Systems Application Development (Intern), 電光所**  
+*Apr 2024 – Jul 2024 · Internship · On-site*  
+- Installed and configured Ubuntu and Yocto systems on MTK Genio boards (MT8365, Genio 350/510).  
+- Deployed ARMNN on MTK Genio boards and demonstrated object detection.  
+- Converted trained models for edge AI processors (Neuropilot, HailoRT); completed conversion and inference on HailoRT.  
+- Assisted lab students with ARMNN setup and troubleshooting.  
+- Contributed to designing a cloud service framework for automating model training, testing, and deployment.  
+- Researched other companies' Model Zoos for integration best practices.  
+
+**Private Cloud Computing Safety and Security (Intern)**  
+*Jul 2023 – Dec 2023 · Internship*  
+- Applied NLP with large language models to analyze cybersecurity data and generate reports.  
+- Enhanced services for detecting domain threats.  
+- Authored a proof-of-concept report on web scraping vulnerabilities and proposed countermeasures.  
+
+---
+
+### Huawei — Malaysia
+
+**Network Technology Intern**  
+*Oct 2021 – Dec 2021 · Internship*  
+- Assisted software engineers in optimizing code efficiency.  
+- Wrote data preprocessing scripts with pandas based on structured rule sheets.  
+- Developed a PyQt5-based user interface with error-handling features.  
+- Implemented multithreading to ensure smooth parallel execution of UI and backend tasks.  
 
 ---
 
