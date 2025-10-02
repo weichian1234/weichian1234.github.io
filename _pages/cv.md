@@ -20,11 +20,11 @@ redirect_from:
 
 ## Summary
 
-Innovative and detail-oriented AIoT and Software Engineer with a strong foundation in computer science, embedded systems, and cloud-based AI development. Holds an M.S. in Computer Science (EECS) from NYCU with a thesis on LLM-driven cybersecurity attack lifecycle extraction (DEAP-LLM), and a B.S. in IT (Communications and Networking) from UTAR (GPA 3.8/4.0).
+Innovative and detail-oriented AIoT and Software Engineer with a strong foundation in computer science, embedded software systems, and cloud-based AI development. Holds an M.S. in Computer Science (EECS) from NYCU with a thesis on LLM-driven cybersecurity attack lifecycle extraction (DEAP-LLM), and a B.S. in IT (Communications and Networking) from UTAR (GPA 3.8/4.0).
 
-Experienced in developing AI-powered solutions that integrate Azure AI Services (Azure OpenAI, Document Intelligence, Virtual Machines) with internal and external data sources to enable high-accuracy intelligent search and automated data processing. Successfully designed and deployed an AIoT datasheet query assistant that reduced retrieval time for 100+ components to ~1 minute with 80%+ query accuracy.
+Experienced in developing AI-powered solutions that integrate Azure AI Services (Azure OpenAI, Document Intelligence, Virtual Machines) with internal and external data sources to enable high-accuracy intelligent search and automated data processing. Successfully designed and deployed an AI-powered electronic component datasheet datasheet query assistant that reduced retrieval time for 100+ components to ~1 minute with 80%+ query accuracy.
 
-Proven track record at ITRI in AIoT embedded systems development, cloud AI deployment, and multi-project delivery (5–6 projects in parallel, including R&D, industry collaboration, and commissioned projects). Skilled in Python, cloud DevOps (Docker, Kubernetes, Helm), embedded platforms (MTK Genio, HailoRT, ARMNN), and AI agent frameworks (FastMCP, Smolagent, A2A Protocol).
+Proven track record at ITRI in systems and application development, cloud AI deployment, and multi-project delivery (5–6 projects in parallel, including R&D, industry collaboration, and commissioned projects). Skilled in Python, cloud DevOps (Docker, Kubernetes, Helm), embedded platforms (MTK Genio, HailoRT, ARMNN), and AI agent frameworks (FastMCP, Smolagent, A2A Protocol).
 
 Fluent in English and Mandarin, certified in Linux, Kubernetes, Azure Administration, Cloud Security, and trained in AI Agent & MCP applications. Passionate about building scalable, intelligent, and secure AI systems that bridge embedded devices, cloud platforms, and real-world industry needs.
 
@@ -51,7 +51,7 @@ Fluent in English and Mandarin, certified in Linux, Kubernetes, Azure Administra
 
 ### Industrial Technology Research Institute (ITRI, 工業技術研究院) — Taiwan
 
-**AIoT Embedded Systems Application Development (R&D Engineer), R300 電光所**  
+**Systems and Application Development (R&D Engineer), R300 電光所**  
 *Sep 2024 – Present · Full-time · On-site*  
 - Developed an **AI-powered electronic component datasheet query assistant**, integrating internal databases with **Azure AI Services** (Azure OpenAI, Document Intelligence) and external web search to support 30+ passive, active, and mechanical components.  
   *Reduced average retrieval time for 100 datasheets to ~1 minute.*  
