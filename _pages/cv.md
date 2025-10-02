@@ -51,9 +51,11 @@ In his free time, he enjoys reading materials outside his field, which has broad
 
 **AIoT Embedded Systems Application Development (R&D Engineer), R300 電光所**  
 *Sep 2024 – Present · Full-time · On-site*  
-- Building AIoT systems leveraging large language models and computer vision.  
-- Planning and deploying scalable cloud solutions on Microsoft Azure.  
-- Skilled in Microsoft Azure, Linux, and AIoT application development.  
+- Developed an **AI-powered electronic component datasheet query assistant**, integrating internal databases with **Azure AI Services** (Azure OpenAI, Document Intelligence) and external web search to support 30+ passive, active, and mechanical components.  
+  *Reduced average retrieval time for 100 datasheets to ~1 minute.*  
+- Built **ChatBot and AI agent system** leveraging Azure OpenAI & Document Intelligence, achieving **80%+ accuracy** in component comparison and single-part queries.  
+- Deployed and managed AIoT solutions on **Azure Virtual Machines**, ensuring scalability and stable operation across multiple AI workloads.  
+- Contributed to **5–6 concurrent R&D and industry collaboration projects**, delivering AIoT and cloud-based solutions under tight timelines.  
 
 **AIoT Embedded Systems Application Development (Intern), 電光所**  
 *Apr 2024 – Jul 2024 · Internship · On-site*  
@@ -86,8 +88,8 @@ In his free time, he enjoys reading materials outside his field, which has broad
 ## Skills
 
 * **Programming Languages:** Python, HTML, CSS, Javascript, SQL
-* **Cloud & DevOps:** Azure AI Service, Azure OpenAI, Azure Document Intelligent, Azure Virtual Machine, FastApi, Github, Docker, Kubernetes, Helm, Linux, Bash Scripting
-
+* **Cloud & DevOps:**  Github, Docker, Kubernetes, Helm, Linux, Bash Scripting
+* **Agentic AI Development:** Azure AI Service, Azure OpenAI, Azure Document Intelligent, Azure Virtual Machine, FastApi, Smolagent, Google ADK, FastMCP, A2A Protocol
 ---
 
 ## Languages
