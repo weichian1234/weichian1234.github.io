@@ -27,6 +27,7 @@ Experienced in developing AI-powered solutions that integrate Azure AI Services 
 Proven track record at ITRI in AIoT embedded systems development, cloud AI deployment, and multi-project delivery (5–6 projects in parallel, including R&D, industry collaboration, and commissioned projects). Skilled in Python, cloud DevOps (Docker, Kubernetes, Helm), embedded platforms (MTK Genio, HailoRT, ARMNN), and AI agent frameworks (FastMCP, Smolagent, A2A Protocol).
 
 Fluent in English and Mandarin, certified in Linux, Kubernetes, Azure Administration, Cloud Security, and trained in AI Agent & MCP applications. Passionate about building scalable, intelligent, and secure AI systems that bridge embedded devices, cloud platforms, and real-world industry needs.
+
 ---
 
 ## Education
