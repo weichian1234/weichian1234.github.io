@@ -92,6 +92,7 @@ Fluent in English and Mandarin, certified in Linux, Kubernetes, Azure Administra
 * **Programming Languages:** Python, HTML, CSS, Javascript, SQL
 * **Cloud & DevOps:**  Github, Docker, Kubernetes, Helm, Linux, Bash Scripting
 * **Agentic AI Development:** Azure AI Service, Azure OpenAI, Azure Document Intelligent, Azure Virtual Machine, FastApi, Smolagent, Google ADK, FastMCP, A2A Protocol
+  
 ---
 
 ## Languages
