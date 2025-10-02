@@ -20,12 +20,13 @@ redirect_from:
 
 ## Summary
 
-The journey in Taiwan began when he met his current advisor through a sister school partnership between Tunku Abdul Rahman University in Malaysia and National Yang Ming Chiao Tung University. Before joining, he knew little about the research direction and wasn’t sure if it aligned with his interests or background. Starting from scratch felt like the perfect fit, as he transitioned from a focus on network technology to an entirely new research field.
+Innovative and detail-oriented AIoT and Software Engineer with a strong foundation in computer science, embedded systems, and cloud-based AI development. Holds an M.S. in Computer Science (EECS) from NYCU with a thesis on LLM-driven cybersecurity attack lifecycle extraction (DEAP-LLM), and a B.S. in IT (Communications and Networking) from UTAR (GPA 3.8/4.0).
 
-Choosing Jiaotong University for his master's was a spontaneous decision, with little understanding of its academic rigor. Over time, he found the environment more challenging and engaging than expected, pushing him to explore new areas like ai agent, linux, operating systems, IoT, and large language models.
+Experienced in developing AI-powered solutions that integrate Azure AI Services (Azure OpenAI, Document Intelligence, Virtual Machines) with internal and external data sources to enable high-accuracy intelligent search and automated data processing. Successfully designed and deployed an AIoT datasheet query assistant that reduced retrieval time for 100+ components to ~1 minute with 80%+ query accuracy.
 
-In his free time, he enjoys reading materials outside his field, which has broadened his knowledge and perspective. The journey from zero to one has been challenging yet full of possibilities.
+Proven track record at ITRI in AIoT embedded systems development, cloud AI deployment, and multi-project delivery (5–6 projects in parallel, including R&D, industry collaboration, and commissioned projects). Skilled in Python, cloud DevOps (Docker, Kubernetes, Helm), embedded platforms (MTK Genio, HailoRT, ARMNN), and AI agent frameworks (FastMCP, Smolagent, A2A Protocol).
 
+Fluent in English and Mandarin, certified in Linux, Kubernetes, Azure Administration, Cloud Security, and trained in AI Agent & MCP applications. Passionate about building scalable, intelligent, and secure AI systems that bridge embedded devices, cloud platforms, and real-world industry needs.
 ---
 
 ## Education
