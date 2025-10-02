@@ -22,7 +22,7 @@ redirect_from:
 
 The journey in Taiwan began when he met his current advisor through a sister school partnership between Tunku Abdul Rahman University in Malaysia and National Yang Ming Chiao Tung University. Before joining, he knew little about the research direction and wasn’t sure if it aligned with his interests or background. Starting from scratch felt like the perfect fit, as he transitioned from a focus on network technology to an entirely new research field.
 
-Choosing Jiaotong University for his master's was a spontaneous decision, with little understanding of its academic rigor. Over time, he found the environment more challenging and engaging than expected, pushing him to explore new areas like web scraping, linux, operating systems, IoT, and large language models.
+Choosing Jiaotong University for his master's was a spontaneous decision, with little understanding of its academic rigor. Over time, he found the environment more challenging and engaging than expected, pushing him to explore new areas like ai agent, linux, operating systems, IoT, and large language models.
 
 In his free time, he enjoys reading materials outside his field, which has broadened his knowledge and perspective. The journey from zero to one has been challenging yet full of possibilities.
 
@@ -31,7 +31,7 @@ In his free time, he enjoys reading materials outside his field, which has broad
 ## Education
 
 * **B.S. in IT (Communications and Networking)**, [UTAR](https://www.utar.edu.my/)  
-  * THE Ranking 2025: 1001–1200 | QS World Ranking 2026: 791–800  
+  * THE World Ranking 2025: 1001–1200 | QS World Ranking 2026: 791–800  
   * Graduated: 2019  
   * GPA: 3.8/4.0  
   * Key Courses: Networking, Embedded Software Systems, Cyber Security, Database, Object Oriented Programming, Microservice Architecture, Computer Architecture, Software Design, Operating System
